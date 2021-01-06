@@ -1,0 +1,13 @@
+.mainDiv {
+    padding: 2%;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+.addDataSection {
+    display: flex;
+    justify-content: baseline;
+}
